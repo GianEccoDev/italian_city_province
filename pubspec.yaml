@@ -1,12 +1,12 @@
 name: italian_city_province
 description: "A new Flutter package project."
 publish_to: 'none'
-version: 0.0.1
+version: 0.0.2
 homepage: 'https://github.com/GianEccoDev'
 
 environment:
-  sdk: ^3.6.2
-  flutter: ">=1.17.0"
+  flutter: "3.16.9"
+  sdk: '>=3.2.6 <4.0.0'
 
 dependencies:
   flutter:

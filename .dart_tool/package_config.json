@@ -161,10 +161,10 @@
       "name": "italian_city_province",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "3.6"
+      "languageVersion": "3.2"
     }
   ],
-  "generated": "2026-01-30T10:38:46.315159Z",
+  "generated": "2026-10-21T08:14:57.924184Z",
   "generator": "pub",
   "generatorVersion": "3.6.2",
   "flutterRoot": "file:///Users/restainup/develoment/flutter",
